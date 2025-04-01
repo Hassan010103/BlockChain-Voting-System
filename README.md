@@ -1,4 +1,4 @@
-# Full-Stack Voting-Dapp
+# Full-Stack BlockChain Voting System
 
 
 Build using Ethereum, React.js, Tailwind CSS, The Graph, and ethers.js.
