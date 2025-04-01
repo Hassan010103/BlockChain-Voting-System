@@ -1,5 +1,8 @@
 # Full-Stack BlockChain Voting System
 
+![image](https://github.com/user-attachments/assets/1e5a4fc0-c54d-40c0-9b05-92538b501872)
+
+
 
 Build using Ethereum, React.js, Tailwind CSS, The Graph, and ethers.js.
 
