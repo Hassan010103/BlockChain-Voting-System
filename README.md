@@ -97,27 +97,17 @@ To set up and run the project, follow these steps:
    git clone https://github.com/Hassan010103/Voting-Dapp.git
    ```
 
-2. Change into the project directory:
-   ```bash
-   cd Voting-Dapp
-   ```
-
-3. Change into the client directory:
-   ```bash
-   cd client
-   ```
-
-4. Install the required dependencies for the frontend:
+2. Install the required dependencies for the frontend:
    ```bash
    npm install
    ```
 
-5. Start the React development server:
+3. Start the React development server:
    ```bash
    npm start
    ```
 
-6. Connect your wallet (MetaMask) to the dApp to participate in elections.
+4. Connect your wallet (MetaMask) to the dApp to participate in elections. (make sure to use Sapolia test Network)
 
 ---
 
